@@ -1,0 +1,8 @@
+{
+  "host": "0.0.0.0",
+  "port": 5001,
+  "public_url": "auto",
+  "seed_url": "http://http://prymenode.duckdns.org:5001",
+  "seeds": [],
+  "node_url": "auto"
+}
